@@ -1,5 +1,7 @@
 Click to experience: https://wanderlust-lqkk.onrender.com/listings
 
+It may take few minutes to fully load the website
+
 Project-Wanderlust:
 
   This project was created from local system It's a Full Stack Project based on MERN Development. This project buliding idea is to list the hotels of different cities globally so that it can easily accessible to
